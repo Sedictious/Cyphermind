@@ -1,0 +1,6 @@
+This was made as a short evening project to get the hang of Gameboy programming.
+
+Rules
+=====
+
+Pretty much the classic Mastermind rules with a twist: The code consists of both numerals and characters. Once you make your "guess" you'll be met with 3 hints: Right character wrong position / Right character right position / Alphanumeric matches (number of correct number-to-number or character-to-character numbers)
